@@ -4,6 +4,7 @@
 - Student instructed
 - No exams or textbook required
 - Teaches useful skills
+- Something new
 
 
 ### A Record for Me (Markdown)
